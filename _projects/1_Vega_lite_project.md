@@ -1,5 +1,5 @@
 ---
-name: Vega Lite Example Project
+name: IS 445 HW10
 tools: [Python, HTML, vega-lite]
 image: assets/pngs/cars.png
 description: This is a "showcase" project that uses vega-lite for interactive viz!
@@ -21,7 +21,9 @@ We can use a vegachart HTML tag like so:
 <vegachart schema-url="{{ site.baseurl }}/assets/json/cars.json" style="width: 100%"></vegachart>
 ```
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/cars.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/plot1.json" style="width: 100%"></vegachart>
+
+<vegachart schema-url="{{ site.baseurl }}/assets/json/plot2.json" style="width: 100%"></vegachart>
 
 In theory, you can also use [Jekyll hooks](https://jekyllrb.com/docs/plugins/hooks/) to do it, but I haven't figured out a way that looks nice yet.
 
