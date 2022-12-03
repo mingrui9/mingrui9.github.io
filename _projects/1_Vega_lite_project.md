@@ -1,7 +1,7 @@
 ---
 name: IS 445 HW10
 tools: [Python, HTML, vega-lite]
-image: assets/pngs/buildings.jpeg
+image: assets/pngs/building.png
 description: HW10
 custom_js:
   - vega.min
