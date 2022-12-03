@@ -1,8 +1,8 @@
 ---
 name: IS 445 Final Project Part 3
 tools: [Python, Altair, vega-lite, jekyll, HTML]
-image: assets/pngs/gummy.jpg
-description: This is a "showcase" of my Final Project Part 3!
+image: assets/pngs/Alcohol Standard Guidelines.png
+description: Family Factors and Grades on Students’ Alcohol Consumption and Health Status
 custom_js:
   - vega.min
   - vega-lite.min
